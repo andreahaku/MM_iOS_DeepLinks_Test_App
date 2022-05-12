@@ -11,6 +11,7 @@
 		025610C7282D093F000B1E41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025610C6282D093F000B1E41 /* ContentView.swift */; };
 		025610C9282D0942000B1E41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 025610C8282D0942000B1E41 /* Assets.xcassets */; };
 		025610CC282D0942000B1E41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 025610CB282D0942000B1E41 /* Preview Assets.xcassets */; };
+		025610D3282D0F6A000B1E41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 025610D2282D0F6A000B1E41 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		025610C6282D093F000B1E41 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		025610C8282D0942000B1E41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		025610CB282D0942000B1E41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		025610D2282D0F6A000B1E41 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				025610C6282D093F000B1E41 /* ContentView.swift */,
 				025610C8282D0942000B1E41 /* Assets.xcassets */,
 				025610CA282D0942000B1E41 /* Preview Content */,
+				025610D2282D0F6A000B1E41 /* Main.storyboard */,
 			);
 			path = IG_DL_Test;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				025610D3282D0F6A000B1E41 /* Main.storyboard in Resources */,
 				025610CC282D0942000B1E41 /* Preview Assets.xcassets in Resources */,
 				025610C9282D0942000B1E41 /* Assets.xcassets in Resources */,
 			);
@@ -267,6 +271,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"IG_DL_Test/Preview Content\"";
+				DEVELOPMENT_TEAM = D3959BDYY9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,6 +300,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"IG_DL_Test/Preview Content\"";
+				DEVELOPMENT_TEAM = D3959BDYY9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
